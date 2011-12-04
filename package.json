@@ -2,7 +2,7 @@
     "name": "esprima",
     "description": "ECMAScript parsing infrastructure for multipurpose analysis",
     "homepage": "http://esprima.org",
-    "main": "esprima.js",
+    "main": "lib/esprima.js",
     "bin": {
         "esparse": "./bin/esparse.js"
     },
